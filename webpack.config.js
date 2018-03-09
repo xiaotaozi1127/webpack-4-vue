@@ -24,10 +24,5 @@ module.exports = {
 				}
 			}
 		]
-	},
-	resolve: {
-		alias: {
-			'vue$': 'vue/dist/vue.esm.js'  // Resolving the vue var for standalone build
-		}
-	},
+	}
 }
